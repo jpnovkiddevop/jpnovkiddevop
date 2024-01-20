@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jpnovkiddevop
+- 👋 Hi, I’m john gitonga
 - 👀 I’m interested in software development and artficial intelligence...
 - 🌱 I’m a master of dbms focused with postgres and mongodb database
-- 💞️ I’m looking to collaborate on projects that are based on web development and AI...
+- 💞️ I’m looking to collaborate on projects that are based on software development
 - 📫 How to reach mobile(+254718027273) email(jpnovkidbiz@gmail.com)...
 
 <!---
