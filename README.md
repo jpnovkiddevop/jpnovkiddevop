@@ -1,5 +1,6 @@
 - 👋 Hi, I’m john gitonga
 - 👀 The marriage between react and django rest framework is superb and the rendering is faster in comparison to other stacks.
+- I enjoy the logic involved in backend/server side the most.
 - 🌱 I’m a master of dbms focused with postgres and mongodb database
 - 💞️ I’m looking to collaborate on projects that are based on software development
 - 📫 How to reach mobile(+254718027273) email(jpnovkidbiz@gmail.com)...
