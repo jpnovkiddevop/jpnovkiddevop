@@ -3,6 +3,7 @@
 - I enjoy the logic involved in backend/server side the most.
 - 🌱 I’m a master of dbms focused with postgres and mongodb database
 - 💞️ I’m looking to collaborate on projects that are based on software development
+- on my free time i enjoy exploring and learning and building machine learning based projects
 - 📫 How to reach mobile(+254718027273) email(jpnovkidbiz@gmail.com)...
 
 <!---
