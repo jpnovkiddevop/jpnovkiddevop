@@ -1,10 +1,10 @@
-- 👋 Hi, I’m john gitonga
-- 👀 The marriage between react and django rest framework is superb and the rendering is faster compared to a fully django based app with no react as GUI.
-- I enjoy the logic involved in backend/server side the most.
-- 🌱 I’m a master of dbms focused with postgres and mongodb database
+- 👋 Hi, I’m John Gitonga
+- 👀 The marriage between React and Django rest framework is superb. Fast rendering of React UI. Strong authentication, authorization, and messaging in Django makes React Django stack one of the best tech-stack to build web applications that meet different system designs and architectural requirements.
+- I enjoy the logic involved in the backend/server side the most.
+- 🌱 I’m a master of dbms focused on Postgres and MongoDB database
 - 💞️ I’m looking to collaborate on projects that are based on software development
-- on my free time i enjoy exploring and learning and building machine learning based projects
-- currently learning vue js and express js and am enjoying the fact that i can create a fullstack web app using one language.
+- In my free time I enjoy exploring, learning, and building machine learning-based projects
+- currently learning vue js and express js and am enjoying the fact that I can create a full-stack web app using one language.
 - 📫 How to reach mobile(+254718027273) email(jpnovkidbiz@gmail.com)...
 
 <!---
